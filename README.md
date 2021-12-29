@@ -11,3 +11,5 @@ mili
 minji
 zvezda
 partizan
+OVAN
+BIK
