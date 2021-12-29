@@ -7,4 +7,5 @@ kanavaro
 mesijeva zlatna lopta ahahahahhahaha
 ANO
 NIDZA
-
+mili
+minji
