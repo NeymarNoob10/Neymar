@@ -9,3 +9,5 @@ ANO
 NIDZA
 mili
 minji
+zvezda
+partizan
