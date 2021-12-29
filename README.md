@@ -5,3 +5,6 @@ levandovski
 haland
 kanavaro
 mesijeva zlatna lopta ahahahahhahaha
+ANO
+NIDZA
+
