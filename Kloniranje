@@ -1,0 +1,16 @@
+pipeline
+    agent any
+        stages{
+            stage("PRVA FAZA"){
+                steps {
+                    script {
+                        git url: 'https://github.com/NeymarNoob10/Neymar.git'
+                        
+                    }
+           
+                    }
+                }
+        
+            }
+        
+    }
