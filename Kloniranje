@@ -1,0 +1,18 @@
+pipeline{
+    agent any
+        stages{
+            stage("PRVA FAZA"){
+                steps {
+                    
+                        git branch: 'main', 
+                        url: "https://github.com/NeymarNoob10/Neymar.git"
+
+                        
+                    sh "ls"
+           
+                    }
+                }
+        
+            }
+        
+    }

@@ -1,0 +1,14 @@
+pipeline {
+    agent any
+    stages {
+        stage("PRVI STAGE") {
+            steps {
+                script {
+                    print("MACKA")      
+                }
+                
+                
+            }
+        }
+    }
+}
